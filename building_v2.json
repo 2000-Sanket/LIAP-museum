@@ -1,0 +1,137 @@
+{
+  "root": {
+    "parent": "none",
+    "resource": "root.glb",
+    "template": "T_root_B.glb",
+    "Don Bosco Institute of Technology": {
+      "resource": "Don Bosco Institute of Technology.glb",
+      "resource_type": "door"
+    },
+    "New folder - Copy (4)": {
+      "resource": "New folder - Copy (4).glb",
+      "resource_type": "door"
+    }
+  },
+  "Don Bosco Institute of Technology": {
+    "parent": "root",
+    "resource": "Don Bosco Institute of Technology.glb",
+    "template": "T_small_B.glb",
+    "WhatsApp Image 2026-02-04 at 3.31.21 PM (1)": {
+      "resource": "/Don Bosco Institute of Technology/WhatsApp Image 2026-02-04 at 3.31.21 PM (1).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[14.922,-0.016,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #0 WhatsApp Image 2026-02-04 at 3.31.21 PM (1)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.31.21 PM": {
+      "resource": "/Don Bosco Institute of Technology/WhatsApp Image 2026-02-04 at 3.31.21 PM.jpeg",
+      "resource_type": "image",
+      "width": "96.00",
+      "height": "120.00",
+      "location": "[-14.929,-0.023,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #1 WhatsApp Image 2026-02-04 at 3.31.21 PM"
+    },
+    "WhatsApp Image 2026-02-04 at 3.31.22 PM (1)": {
+      "resource": "/Don Bosco Institute of Technology/WhatsApp Image 2026-02-04 at 3.31.22 PM (1).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[8.021,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #2 WhatsApp Image 2026-02-04 at 3.31.22 PM (1)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.31.22 PM (2)": {
+      "resource": "/Don Bosco Institute of Technology/WhatsApp Image 2026-02-04 at 3.31.22 PM (2).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-8.078,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #3 WhatsApp Image 2026-02-04 at 3.31.22 PM (2)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.31.22 PM (3)": {
+      "resource": "/Don Bosco Institute of Technology/WhatsApp Image 2026-02-04 at 3.31.22 PM (3).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[8.021,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #4 WhatsApp Image 2026-02-04 at 3.31.22 PM (3)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.31.22 PM": {
+      "resource": "/Don Bosco Institute of Technology/WhatsApp Image 2026-02-04 at 3.31.22 PM.jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-8.078,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #5 WhatsApp Image 2026-02-04 at 3.31.22 PM"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "New folder - Copy (4)": {
+    "parent": "root",
+    "resource": "New folder - Copy (4).glb",
+    "template": "T_small_B.glb",
+    "WhatsApp Image 2026-02-04 at 3.25.23 PM (1)": {
+      "resource": "/New folder - Copy (4)/WhatsApp Image 2026-02-04 at 3.25.23 PM (1).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[14.922,-0.016,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "ID #6 WhatsApp Image 2026-02-04 at 3.25.23 PM (1)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.25.23 PM (2)": {
+      "resource": "/New folder - Copy (4)/WhatsApp Image 2026-02-04 at 3.25.23 PM (2).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-14.929,-0.023,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "ID #7 WhatsApp Image 2026-02-04 at 3.25.23 PM (2)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.25.23 PM (3)": {
+      "resource": "/New folder - Copy (4)/WhatsApp Image 2026-02-04 at 3.25.23 PM (3).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[8.021,14.922,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #8 WhatsApp Image 2026-02-04 at 3.25.23 PM (3)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.25.23 PM (4)": {
+      "resource": "/New folder - Copy (4)/WhatsApp Image 2026-02-04 at 3.25.23 PM (4).jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "90.00",
+      "location": "[-8.078,14.912,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "ID #9 WhatsApp Image 2026-02-04 at 3.25.23 PM (4)"
+    },
+    "WhatsApp Image 2026-02-04 at 3.25.23 PM": {
+      "resource": "/New folder - Copy (4)/WhatsApp Image 2026-02-04 at 3.25.23 PM.jpeg",
+      "resource_type": "image",
+      "width": "120.00",
+      "height": "120.00",
+      "location": "[8.021,-14.926,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "ID #10 WhatsApp Image 2026-02-04 at 3.25.23 PM"
+    },
+    "root": {
+      "resource": "root.glb",
+      "resource_type": "door"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "show_plaques": true
+  }
+}
